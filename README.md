@@ -26,4 +26,4 @@ The project focuses on predicting credit card application approvals using machin
 The project provided practical experience in data preprocessing, exploratory analysis, classification algorithms, neural networks, and model evaluation. It demonstrates an end-to-end machine learning workflow for credit card approval prediction while highlighting the importance of selecting appropriate models for financial classification problems.
 
 This link is for classification project google colab file:https://drive.google.com/file/d/1tweh4TSP8S9e1a7zIObAbzQsEdiJ_6Tq/view?usp=drivesdk
-This link is for classification project ppt:https://drive.google.com/file/d/1bbrZQUiP4sEyz51eoyaUu8nfZ_7wslPj/view?usp=drivesdk
+This link is for classification project ppt:https://docs.google.com/presentation/d/1HqySRGvqHeCLPh9mWDpC06OeOjBs_Eoq/edit?usp=drivesdk&ouid=115431945169243688799&rtpof=true&sd=trueview?usp=drivesdk
